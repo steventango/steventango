@@ -1,6 +1,6 @@
 ### Hi!
 
-- 🤔 I’m currently learning RL and ML.
+- 🤔 I’m currently learning Deep Learning.
 - 😋 I’m looking to collaborate on interesting projects!
 
 ## Languages
@@ -11,4 +11,5 @@
 
 
 ## Learning
-<img alt="Tensorflow" title="Tensorflow"  width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
+<img alt="PyTorch" title="PyTorch" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/198px-PyTorch_logo_icon.svg.png"><img alt="Tensorflow" title="Tensorflow"  height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/224px-Tensorflow_logo.svg.png">
+
